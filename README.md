@@ -4,7 +4,7 @@
 Essentials
 ```
 sudo apt update && sudo apt upgrade
-sudo apt install git zsh guake
+sudo apt install git zsh guake curl
 ```
 
 Oh-my-zsh
